@@ -1,0 +1,4 @@
+#!/usr/bin/env python3
+
+# pass all arguments to proxmox-tool.py
+python3 proxmox-tool.py "$@"

@@ -1,0 +1,4 @@
+node: hp-node-4
+vcpu:
+  cores: 4
+memory: 4096
